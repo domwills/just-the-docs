@@ -1,6 +1,7 @@
 title: Testing Standards
 description: Testing standards
 theme: just-the-docs
-color_scheme: dark
+#color_scheme: dark
+color_scheme: vitality
 
 url: https://domwills.github.io/just-the-docs/
